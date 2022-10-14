@@ -1,3 +1,5 @@
+import Switch from './Switch';
+
 function Light({ status = false }) {
   return (
     <p className="Light">
